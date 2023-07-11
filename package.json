@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "elm": "^0.18",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-cli": "^2.0.1",
     "gulp-elm": "^0.7.2",
     "gulp-rename": "^1.2.2",
